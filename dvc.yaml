@@ -60,3 +60,9 @@ artifacts:
     - segmentation
     - satellite-images
     - shufflenet_v2_x2_0
+  tf-model:
+    path: tf-model
+    desc: Example model built with tensorflow.
+    type: model
+    labels:
+    - tensorflow
