@@ -21,6 +21,14 @@ train:
               f:
                 g:
                   h:1
+    a1a:
+      b1a:
+        c1a:
+          d1a:
+            e1a:
+              f1a:
+                g1a:
+                  h1a:1
 
 evaluate:
   n_samples_to_save: 10
