@@ -13,6 +13,14 @@ train:
   fine_tune_args:
     epochs: 8
     base_lr: 0.01
+    a:
+      b:
+        c:
+          d:
+            e:
+              f:
+                g:
+                  h:1
 
 evaluate:
   n_samples_to_save: 10
