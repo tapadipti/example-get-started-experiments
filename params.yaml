@@ -29,6 +29,12 @@ train:
               f1a:
                 g1a:
                   h1a:1
+        z1a:
+          y1a:
+            x1a:
+              w1a:
+                v1a:
+                  h1a:1
 
 evaluate:
   n_samples_to_save: 10
